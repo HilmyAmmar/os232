@@ -13,4 +13,4 @@ ZCZC W01 10 L01 SCELE/Discord related
 ZCZC w01 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 20 L05 Quiz related including studying
 ZCZC W01 05 L03 Github and Git related
-
+ZCZC W01 360 L11 Assignment #01
