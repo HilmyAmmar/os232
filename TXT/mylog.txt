@@ -31,3 +31,5 @@ ZCZC W03 15 L41 TXT/mylog.txt related.
 ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 10 L01 SCELE/Discord related
 ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30 L13 Assignment #03
+ZCZC W04 10 L41 TXT/mylog.txt related.
