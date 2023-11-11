@@ -11,7 +11,7 @@ permalink: LINKS/
 7. [How to Mount and Unmount File Systems in Linux](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/#google_vignette) web page provides a clear and well-structured guide suitable for beginners. It offers step-by-step instructions about how to mount and unmount a file system, a USB drive, and an ISO files, making it an excellent resource for those new to the topic. 
 8. [Virtual File System](https://www.geeksforgeeks.org/virtual-file-system/) delivers a clear and well-structured explanation of virtual file systems. It offers practical examples and use cases, enhancing the learning experience. Overall, it's a valuable resource for beginners and those seeking a conceptual understanding of the topic.
 9. [Fork System Call Linux](https://linuxhint.com/fork-system-call-linux/) give us a valuable information regarding fork system in linux. It also shows us an example of fork in C programming language, making it a perfect material source for those at the beginner level.
-
+10. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) provides a comprehensive insight into the deadlock concept. With a clear definition, the use of a Resource Allocation Graph, and practical examples, the article is suitable for readers at various levels of understanding. Its practical approach and well-organized structure make it a valuable learning resource for understanding deadlock in operating systems.
 
 
 
