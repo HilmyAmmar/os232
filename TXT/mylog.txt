@@ -44,3 +44,4 @@ ZCZC W07 20 L01 SCELE/Discord related
 ZCZC W07 150 L17 Assignment #07
 ZCZC W07 15 L40 TXT/ related in general.
 ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 99 L02 CLASSROOM/ZOOM meetings related
